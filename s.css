@@ -1,0 +1,13 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+.int{
+  color: rgb(16, 146, 124);
+}
+#range{
+height:24px; width:100%;
+}
+#range1{
+    height:24px; width:70%;
+    }
+    #range2{
+        height:24px; width:50%;
+        }
